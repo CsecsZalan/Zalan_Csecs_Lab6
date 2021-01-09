@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "Zalan_Csecs_Lab6Context"
+    }
+  }
+}
